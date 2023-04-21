@@ -9,8 +9,8 @@ int main(){
 
     Texture2D texture = LoadTexture("Área_de_trabalho/Enchantress/walk.png");
     
-
     //posição casa
+    
     
     Rectangle casa = {-250, 20, 300, 300};
 
